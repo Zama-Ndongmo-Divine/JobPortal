@@ -60,7 +60,7 @@ Directory structure of the web app is as follows:
 
 Details of the machine on which the webapp was tested:
 
-- Operating System: Elementary OS 5.1 (Hera)
+- Operating System: Kali Linux (Virtual Machine using VM Ware)
 - Terminal: Bash
-- Processor: Intel Core i7-8750H CPU @ 2.20 GHz 2.21 GHz
+- Processor: Rysen 7 5800U @ 1.90Ghz
 - RAM: 16 GB
